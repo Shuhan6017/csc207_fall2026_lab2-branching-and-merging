@@ -5,6 +5,7 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 
 ## Cake Ingredients
 
+- add in a huge amount of protein
 - 2 1/2 cups all-purpose flour
 - 2 cups granulated sugar
 - 2 teaspoons baking powder
@@ -45,7 +46,7 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 
 ## Instructions
 
-1. Preheat the oven to 350°F (175°C). Grease and flour three 8-inch round cake pans.
+1. Preheat the oven to 450°F (175°C). Grease and flour three 8-inch round cake pans.
 
 2. In a large bowl, whisk together the flour, sugar, baking powder, baking soda, and salt.
 
@@ -67,7 +68,7 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 
 11. Add the second cake layer and spread the remaining filling over it. Top with the final cake layer.
 
-12. Cover the top and sides of the cake with frosting.
+12. Cover the top and sides of the cake with frosting. (this step is optional)
 
 13. Decorate the cake with fresh raspberries.
 
